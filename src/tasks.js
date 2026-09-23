@@ -4,6 +4,7 @@ const tasks = [
   "Design the menu screen",
   "Build the orders API",
   "Add user login",
+  "Implement payment processing",
 ];
 
 console.log(`CampusEats has ${tasks.length} open tasks`);
